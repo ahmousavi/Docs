@@ -496,7 +496,7 @@ curl --location --request POST 'https://api.bazaar-pay.ir/badje/v1/get-checkouts
       "is_committed": true
     }
   ],
-  "next": "https://pardakht-secure.cafebazaar.org/pardakht/badje/v1/get-checkouts-status/?cursor=qweqweqweqwe",
+  "next": "https://api.bazaar-pay.ir/badje/v1/get-checkouts-status/?cursor=qweqweqweqwe",
   "previous": null
 }
 ```
