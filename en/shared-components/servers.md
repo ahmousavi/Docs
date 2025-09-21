@@ -28,4 +28,4 @@ servers:
       base_path:
         default: '/bazaar-pay'
         description: BazaarPay we base PATH
-    example: 'https://cafebazaar.ir/bazaar-pay/contract/direct-pay'
+    example: 'https://app.bazaar-pay.ir/contract/direct-pay'
